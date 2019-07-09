@@ -12,7 +12,7 @@ JavaScript
 
 ## Authors
 
-* **Matthew Tran** - *Initial work* - [Matthewhaotran](https://github.com/matthewhaotran)
+* **Matthew Tran** - [Matthewhaotran](https://github.com/matthewhaotran)
 
 ## Acknowledgments
 
